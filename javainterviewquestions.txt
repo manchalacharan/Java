@@ -1,0 +1,38 @@
+Java interview questions:
+----------------------------
+1)what/explain are the oop's concepts?
+2)features of java?
+2)how you implemented oop's concepts in your project in automation?
+3)difference between object and constructor?
+4)how to find second largest element in an array?
+5)how to find duplicate elements in an array and count the duplicates?
+6)String s1="java";
+	s1.concat("program");
+	sop(s1);  // string immutable or mutable
+
+7)how to find duplicate strings in an string array?
+8)how to find swap 2 strings? substring
+9)how to find string reverse?
+10)how to print 1 to 10 numbers without using any loops? (using recursive function)
+11)how to replace special characters  and blank spaces in a given string?
+12)how to sort an elements in an array?
+13)how to find sum of first digit and last digit in a number?
+14)difference between abstract class and interface?
+15)what is function overloading and function overidding with example?
+	15.1)what is polymorphism and how many types of polymorphism are there?
+16)what is the difference between static block and nonstatic/instance block?
+17)difference between final, finally, finalize?
+18)difference between throw and throws?
+19)how to handle exception handling? try,catch, finally, throw and throws
+20)what is a package?
+21)what is collection and the difference between collection and collection framework?
+22)difference between list and set?
+23)difference between arraylist and linkedlist?
+24)difference between map and hashmap?
+25)difference between hashset and linkedhashset?
+26)difference between array and collections?
+27)differences between while and do-while?
+
+
+	
+	
